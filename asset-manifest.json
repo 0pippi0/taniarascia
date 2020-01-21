@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taniarascia/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/taniarascia/static/js/main.46723174.chunk.js",
+    "main.js.map": "/taniarascia/static/js/main.46723174.chunk.js.map",
+    "runtime-main.js": "/taniarascia/static/js/runtime-main.fec48550.js",
+    "runtime-main.js.map": "/taniarascia/static/js/runtime-main.fec48550.js.map",
+    "static/js/2.d35a2c42.chunk.js": "/taniarascia/static/js/2.d35a2c42.chunk.js",
+    "static/js/2.d35a2c42.chunk.js.map": "/taniarascia/static/js/2.d35a2c42.chunk.js.map",
+    "index.html": "/taniarascia/index.html",
+    "precache-manifest.878f505309d59a27bfdccafeb1198076.js": "/taniarascia/precache-manifest.878f505309d59a27bfdccafeb1198076.js",
+    "service-worker.js": "/taniarascia/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/taniarascia/static/css/main.71bd5e9e.chunk.css.map",
+    "static/js/2.d35a2c42.chunk.js.LICENSE": "/taniarascia/static/js/2.d35a2c42.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec48550.js",
+    "static/js/2.d35a2c42.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.46723174.chunk.js"
+  ]
+}
